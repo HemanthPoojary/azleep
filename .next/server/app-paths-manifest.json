@@ -1,7 +1,7 @@
 {
+  "/(main)/journals/page": "app/(main)/journals/page.js",
+  "/(main)/goals/page": "app/(main)/goals/page.js",
   "/(main)/sounds/page": "app/(main)/sounds/page.js",
   "/(main)/home/page": "app/(main)/home/page.js",
-  "/(main)/goals/page": "app/(main)/goals/page.js",
-  "/(main)/chat/page": "app/(main)/chat/page.js",
-  "/(main)/journals/page": "app/(main)/journals/page.js"
+  "/(main)/chat/page": "app/(main)/chat/page.js"
 }
